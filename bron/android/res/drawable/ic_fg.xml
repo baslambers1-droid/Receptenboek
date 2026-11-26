@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- left page -->
+    <path android:fillColor="#FFF2A541"
+        android:pathData="M54,46 C47,41 38,40 30,41 L30,72 C38,71 47,72 54,77 Z"/>
+    <!-- right page -->
+    <path android:fillColor="#FFE0892B"
+        android:pathData="M54,46 C61,41 70,40 78,41 L78,72 C70,71 61,72 54,77 Z"/>
+    <!-- spine -->
+    <path android:strokeColor="#FF1A1411" android:strokeWidth="1.6"
+        android:pathData="M54,46 L54,77"/>
+    <!-- lines on pages -->
+    <path android:strokeColor="#661A1411" android:strokeWidth="1.4" android:strokeLineCap="round"
+        android:pathData="M35,50 C40,49.5 44,50 49,52 M35,56 C40,55.5 44,56 49,58 M35,62 C40,61.5 44,62 49,64 M59,52 C64,50 68,49.5 73,50 M59,58 C64,56 68,55.5 73,56 M59,64 C64,62 68,61.5 73,62"/>
+    <!-- steam -->
+    <path android:strokeColor="#FFF6EDE3" android:strokeWidth="2.2" android:strokeLineCap="round"
+        android:pathData="M47,37 C45,34 49,32 47,29 M54,36 C52,33 56,31 54,27 M61,37 C59,34 63,32 61,29"/>
+</vector>
