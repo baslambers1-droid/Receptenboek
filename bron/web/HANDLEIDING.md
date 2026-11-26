@@ -6,7 +6,7 @@ Deel een recept vanuit Instagram, YouTube of een website. Gemini leest de captio
 
 ## Deel 1 – Voor iedereen (5 minuten)
 
-1. **Open de app-link** in Safari: `https://baslambers1-droid.github.io/receptenboek/`
+1. **Open de app-link** in Safari: `https://baslambers1-droid.github.io/Receptenboek/`
 2. Tik op het **deel-icoon** (vierkant met pijl) → **Zet op beginscherm** → zet **Open als webapp** aan → **Voeg toe**.
 3. Maak een **gratis Gemini-sleutel** aan op <https://aistudio.google.com/apikey>: log in met je Google-account en tik op **Create API key**. Kopieer de sleutel.
 4. Open **Receptenboek** vanaf je beginscherm en plak de sleutel.
